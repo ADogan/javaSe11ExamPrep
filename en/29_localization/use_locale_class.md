@@ -1,0 +1,3 @@
+## Localization
+### Use Locale class
+-----

@@ -1,0 +1,6 @@
+{
+    "plugins": ["smart-nav-collapse"],
+    "styles": {
+          "website": "styles/website.css"
+    }
+}
