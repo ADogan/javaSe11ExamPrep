@@ -2,3 +2,4 @@ initialize_pages_tools/*
 .gitignore
 .DS_Store
 package-lock.json
+.bookignore
