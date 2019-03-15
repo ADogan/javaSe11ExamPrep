@@ -1,6 +1,15 @@
 {
-    "plugins": ["smart-nav-collapse"],
-    "styles": {
-          "website": "styles/website.css"
-    }
+  "title": "Java SE 11 Oracle Exam Preparation",
+  "description": "Java SE 11 Oracle Exam Preparation with a collection of resources and links.",
+  "author": "Ali Dogan",
+  "gitbook": "3.2.3",
+  "plugins": ["smart-nav-collapse", "github"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/ADogan/javaSe11ExamPrep"
+        }
+    },
+  "styles": {
+        "website": "styles/website.css"
+  }
 }

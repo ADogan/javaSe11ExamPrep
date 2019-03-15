@@ -11,3 +11,5 @@ On the left side you will find all the exam topics taken from the following site
 My plan is to put an overview and a set of links + resources for every topic.
 
 After I initialize a third party commenting system like Disqus, the pages will be open for comments by other users. Until then, you can reach me through [email](mailto:alidogan.just.for.commits+gbjs11@gmail.com) or [GitHub](https://github.com/ADogan).
+
+Git repository of this book: [https://github.com/ADogan/javaSe11ExamPrep](https://github.com/ADogan/javaSe11ExamPrep).

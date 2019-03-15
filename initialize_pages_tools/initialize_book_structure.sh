@@ -3,7 +3,7 @@ rm ../SUMMARY.md
 touch ../SUMMARY.md
 echo "# Summary\n" >> ../SUMMARY.md
 
-echo "* [Java SE 11 Programmer](README.md)\n" >> ../SUMMARY.md
+echo "* [Introduction](README.md)\n" >> ../SUMMARY.md
 
 mkdir -p ../en
 parentfolder='xxxxxxx'
