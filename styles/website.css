@@ -1,3 +1,6 @@
 .footer {
   margin:10px;
 }
+.book-summary ul.summary li {
+  white-space:normal !important;
+}
